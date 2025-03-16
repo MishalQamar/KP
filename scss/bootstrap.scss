@@ -1,0 +1,23 @@
+// Bootstrap Variables
+$primary: #72BB49;
+$secondary:  #dedede;
+
+$font-family-sans-serif: 'Raleway',
+sans-serif;
+
+$button-radius: 9px;
+/* Border radius */
+
+
+$btn-border-radius: $button-radius;
+$btn-border-radius-sm: $button-radius;
+$btn-border-radius-lg: $button-radius;
+
+
+
+
+$headings-font-weight: bold;
+
+
+
+@import '../node_modules/bootstrap/scss/bootstrap';

@@ -1,0 +1,82 @@
+{
+  
+
+
+
+
+
+  "scripts": {
+  
+
+
+
+
+
+    
+
+
+
+
+
+  "sass:build": "sass --no-source-map scss:css",
+  
+
+
+
+
+
+    
+
+
+
+
+
+  "sass:watch": "sass --no-source-map --watch scss:css"
+  
+
+
+
+
+
+  },
+  
+
+
+
+
+
+  "devDependencies": {
+  
+
+
+
+
+
+    
+
+
+
+
+
+  "bootstrap": "^5.3.3",
+  
+
+
+
+
+
+    
+
+
+
+
+
+  "sass": "^1.85.1"
+  
+
+
+
+
+
+  }
+}
